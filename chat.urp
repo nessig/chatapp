@@ -1,4 +1,4 @@
-database dbname=urchat user=nessig password=123
+database dbname=urchat password=123
 sql chat.sql
 
 broadcast
